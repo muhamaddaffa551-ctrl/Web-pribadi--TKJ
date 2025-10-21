@@ -1,4 +1,4 @@
-# Web-pribadi--TKJ
+index.html
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -155,10 +155,10 @@
     <h2>Identitas Pribadi</h2>
     <img src="fotoku.jpg" alt="Foto Saya" class="foto">
     <div class="bio">
-      <p><b>Nama:</b> [Nama Kamu]</p>
-      <p><b>Alamat:</b> [Alamat Kamu]</p>
-      <p><b>Cita-cita:</b> [Cita-cita Kamu]</p>
-      <p><b>Hobi:</b> [Hobi Kamu]</p>
+      <p><b>Nama:</b> [Muhamad Daffa]</p>
+      <p><b>Alamat:</b> [KP Cipedak,srengseng sawah]</p>
+      <p><b>Cita-cita:</b> [membahagiakan orang tua,masinis ]</p>
+      <p><b>Hobi:</b> [mendengarkan musik]</p>
     </div>
   </section>
 
